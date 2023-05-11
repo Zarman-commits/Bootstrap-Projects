@@ -1,0 +1,17 @@
+body::{
+display: block;
+content: '';
+height:  60px;
+}
+
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+@media (min-width:1195px)
+       .Hero
+ {
+    padding-top: 30px;
+    
+}
